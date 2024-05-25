@@ -1,6 +1,3 @@
-// Written by Maggie Jiang Jian0886
-//Written by Jake O'Shaughnessy oshau033
-
 import java.awt.Color;
 
 public class Circle {
