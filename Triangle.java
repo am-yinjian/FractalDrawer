@@ -1,5 +1,4 @@
-// Written by Jake O'Shaughnessy oshau033
-//Written by Maggie Jiang, Jian0886
+
 import java.awt.Color;
 
 public class Triangle{
