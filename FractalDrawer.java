@@ -1,7 +1,4 @@
 // FractalDrawer class draws a fractal of a shape indicated by user input
-//Written by Jake O'Shaughnessy oshau033
-//Written by Maggie Jiang Jian0886
-
 import java.awt.Color;
 import java.util.Scanner;
 
